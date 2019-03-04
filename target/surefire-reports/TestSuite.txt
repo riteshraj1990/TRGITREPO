@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 42.304 s <<< FAILURE! - in TestSuite
+verifyTextPresent(com.test.pack1.LandingPageTest)  Time elapsed: 0.19 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURE COURSES] but found [FEATURED COURSES]
+	at com.test.pack1.LandingPageTest.verifyTextPresent(LandingPageTest.java:28)
+

@@ -1,0 +1,76 @@
+05:17:17.397 [main] INFO  com.test.pack1.LoginPageTest - clicked on Sign in link
+05:17:17.454 [main] INFO  com.test.pack1.LoginPageTest - LoginPageObjects got created
+05:34:15.615 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+05:34:15.660 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+05:34:15.756 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+05:34:15.759 [main] INFO  com.test.pack1.LandingPageTest - Actual Test is same as given Text
+05:34:15.857 [main] INFO  com.test.pack1.LandingPageTest - Navigation menu is displayed
+05:34:21.133 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+05:34:57.477 [main] INFO  com.test.pack1.LoginPageTest - Driver got initialized
+05:34:57.479 [main] INFO  com.test.pack1.LoginPageTest - LandingPageObjects got created
+05:35:04.130 [main] DEBUG com.test.pack1.LoginPageTest - clicked on Sign in link
+05:35:04.132 [main] INFO  com.test.pack1.LoginPageTest - LoginPageObjects got created
+05:35:05.047 [main] INFO  com.test.pack1.LoginPageTest - 5 is the size of resultSet .
+05:35:05.118 [main] INFO  com.test.pack1.LoginPageTest - Successfully got DB task completed
+05:35:05.439 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:35:05.648 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:35:08.276 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:35:08.386 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:35:08.666 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:35:08.823 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:35:12.277 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:35:12.387 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:35:12.646 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:35:12.797 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:35:15.276 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:35:15.400 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:35:15.685 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:35:15.854 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:35:18.412 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:35:18.524 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:35:18.813 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:35:18.986 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:35:22.398 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:35:22.507 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:35:22.693 [main] INFO  com.test.pack1.LoginPageTest - closing the browser
+05:55:36.525 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+05:55:36.637 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+05:55:36.862 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+05:55:36.867 [main] INFO  com.test.pack1.LandingPageTest - Actual Test is same as given Text
+05:55:37.702 [main] INFO  com.test.pack1.LandingPageTest - Navigation menu is displayed
+05:55:38.072 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+05:56:13.092 [main] INFO  com.test.pack1.LoginPageTest - Driver got initialized
+05:56:13.095 [main] INFO  com.test.pack1.LoginPageTest - LandingPageObjects got created
+05:56:23.531 [main] DEBUG com.test.pack1.LoginPageTest - clicked on Sign in link
+05:56:23.534 [main] INFO  com.test.pack1.LoginPageTest - LoginPageObjects got created
+05:56:24.806 [main] INFO  com.test.pack1.LoginPageTest - 5 is the size of resultSet .
+05:56:24.809 [main] INFO  com.test.pack1.LoginPageTest - Successfully got DB task completed
+05:56:25.343 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:56:25.764 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:56:29.985 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:56:30.119 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:56:30.606 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:56:30.867 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:56:33.951 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:56:34.076 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:56:34.637 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:56:34.867 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:56:38.947 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:56:39.079 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:56:39.543 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:56:39.773 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:56:42.790 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:56:42.947 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:56:43.556 [main] DEBUG com.test.pack1.LoginPageTest - username entered successfully
+05:56:43.830 [main] DEBUG com.test.pack1.LoginPageTest - password entered successfully
+05:56:47.809 [main] DEBUG com.test.pack1.LoginPageTest - Login button clicked successfully
+05:56:47.926 [main] DEBUG com.test.pack1.LoginPageTest - Cleared the username field successfully
+05:56:48.103 [main] INFO  com.test.pack1.LoginPageTest - closing the browser
+07:30:05.419 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+07:30:05.511 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+07:30:05.635 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+07:30:07.816 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+07:35:16.690 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+07:35:16.787 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+07:35:16.898 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+07:35:17.881 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser

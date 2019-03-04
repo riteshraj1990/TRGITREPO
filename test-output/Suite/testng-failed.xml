@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.test.Listeners.ProjectListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.test.pack1.LandingPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyTextPresent"/>
+          <include name="getBrowserInstance"/>
+        </methods>
+      </class> <!-- com.test.pack1.LandingPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

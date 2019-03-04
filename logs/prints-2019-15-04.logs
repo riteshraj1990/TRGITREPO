@@ -1,0 +1,6 @@
+05:16:25.019 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+05:16:26.203 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+05:16:26.341 [main] INFO  com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+05:16:28.918 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+05:17:06.199 [main] INFO  com.test.pack1.LoginPageTest - Driver got initialized
+05:17:06.201 [main] INFO  com.test.pack1.LoginPageTest - LandingPageObjects got created

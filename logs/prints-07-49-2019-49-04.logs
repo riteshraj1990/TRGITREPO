@@ -1,0 +1,12 @@
+07:49:19.854 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+07:49:19.881 [main] INFO  com.test.Listeners.ProjectListener - onTestFailure method invoked
+07:49:19.892 [main] INFO  com.test.Listeners.ProjectListener - onTestFailure method invoked
+07:49:20.546 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+07:53:50.872 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+07:53:50.916 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
+07:53:51.025 [main] DEBUG com.test.pack1.LandingPageTest - Actual Test captured from the webpage
+07:53:51.033 [main] INFO  com.test.Listeners.ProjectListener - onTestFailure method invoked
+07:53:51.037 [main] INFO  com.test.Listeners.ProjectListener - onTestFailure method invoked
+07:53:51.145 [main] INFO  com.test.pack1.LandingPageTest - Closing the browser
+07:54:53.145 [main] INFO  com.test.pack1.LandingPageTest - Driver got initialized
+07:54:53.210 [main] INFO  com.test.pack1.LandingPageTest - LandingPageObject got created
